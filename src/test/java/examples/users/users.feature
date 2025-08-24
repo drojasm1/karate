@@ -23,7 +23,7 @@ Feature: sample karate test script
         "username": "testuser",
         "email": "test@user.com",
         "address": {
-          "street": "Has No Name",
+          "street": "Larrain",
           "suite": "Apt. 123",
           "city": "Electric city",
           "zipcode": "54321-6789"
