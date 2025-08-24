@@ -25,7 +25,7 @@ Feature: sample karate test script
         "address": {
           "street": "Has No Name",
           "suite": "Apt. 123",
-          "city": "Electri",
+          "city": "Electric city",
           "zipcode": "54321-6789"
         }
       }
