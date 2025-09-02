@@ -52,3 +52,4 @@ Scenario: validate phone field in the response
   * def first = response[0]
   * match first.phone == '1-770-736-8031 x56442'
   * print 'Phone number of the first user is: ', first.phone
+
